@@ -1,6 +1,6 @@
 # flutter_app_hello
 
-A Hello World Applicatio
+A Hello World Application
 
 ## Getting Started
 
